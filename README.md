@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vivek Rai
 =================================================================================================================================
 
-Web Developer
+Developer
 -------------
 
 A passionate student pursuing my Bachelor's degree in Computer Science and Engineering at Tezpur University. 💻 Currently, I'm honing my skills as a React developer intern at Navalogy Club Tezpur University, where I'm actively involved in crafting innovative solutions and contributing to real-world projects. 🚀 My journey in the realm of technology is fueled by a relentless curiosity and a desire to push boundaries. I thrive on challenges and am constantly seeking opportunities to learn and grow. 🌟 Some highlights of my expertise include: Proficient in JavaScript, HTML, CSS Experienced in building responsive and dynamic web applications using React.js Familiarity with version control systems like Git and collaborative development on platforms like GitHub Passionate about clean, efficient code and implementing best practices in software development 🌱 Outside of coding, I'm an avid learner, always exploring new technologies and staying updated with the latest trends in the tech industry. I believe in the power of community and actively engage in networking and sharing knowledge with fellow developers.

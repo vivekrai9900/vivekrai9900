@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 -------------
 
-A passionate student pursuing my Bachelor's degree in Computer Science and Engineering at Tezpur University. 💻 Currently, I'm honing my skills as a React developer intern at Navalogy Club Tezpur University, where I'm actively involved in crafting innovative solutions and contributing to real-world projects. 🚀 My journey in the realm of technology is fueled by a relentless curiosity and a desire to push boundaries. I thrive on challenges and am constantly seeking opportunities to learn and grow. 🌟 Some highlights of my expertise include: Proficient in JavaScript, HTML, CSS Experienced in building responsive and dynamic web applications using React.js Familiarity with version control systems like Git and collaborative development on platforms like GitHub Passionate about clean, efficient code and implementing best practices in software development 🌱 Outside of coding, I'm an avid learner, always exploring new technologies and staying updated with the latest trends in the tech industry. I believe in the power of community and actively engage in networking and sharing knowledge with fellow developers.
+A passionate student pursuing my Bachelor's degree in Computer Science and Engineering at Tezpur University. 💻 Currently, I'm honing my skills as a SDE 1 intern at Octopi-labs, Bangaluru, where I'm actively involved in crafting innovative FullStack solutions and contributing to real-world projects. 🚀 My journey in the realm of technology is fueled by a relentless curiosity and a desire to push boundaries. I thrive on challenges and am constantly seeking opportunities to learn and grow. 🌟 Some highlights of my expertise include: Proficient in Java, SpringBoot, JavaScript, HTML, CSS Experienced in building responsive and dynamic web applications and Mobile applications using React.js and React-native and Java SpringBoot Familiarity with version control systems like Git and collaborative development on platforms like GitHub Passionate about clean, efficient code and implementing best practices in software development 🌱 Outside of coding, I'm an avid learner, always exploring new technologies and staying updated with the latest trends in the tech industry. I believe in the power of community and actively engage in networking and sharing knowledge with fellow developers.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [raivivek9900@gmail.com](mailto:raivivek9900@gmail.com)
-* 🚀  I'm currently working on [PWA Weather Tracking Website](http://github.com/vivekrai9900/Wheather-App-PWA)
-* 🧠  I'm learning Redux, Node js, MongoDB
-* 🤝  I'm open to collaborating on Any MERN stack development projects
+* 🚀  I'm currently working on [GeoSphere Java Backend](https://github.com/ReactersInc/Geosphere_Java_BE)
+* 🧠  I'm learning java, SpringBoot
+* 🤝  I'm open to collaborating on Any FullStack development projects
 
 ### Skills
 
